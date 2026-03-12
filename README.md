@@ -24,8 +24,8 @@ The goal is to:
 | Day 1  | Python Setup           | ✅      |
 | Day 2  | Variables & Data Types | ✅      |
 | Day 3  | Operators              | ✅      |
-| Day 4  | Input & Output         | ⬜      |
-| Day 5  | Conditional Statements | ⬜      |
+| Day 4  | Input & Output         | ✅      |
+| Day 5  | Conditional Statements | ✅      |
 | Day 6  | Nested Conditions      | ⬜      |
 | Day 7  | Loops                  | ⬜      |
 | Day 8  | Loop Control           | ⬜      |
@@ -171,4 +171,5 @@ If you're also learning Python, feel free to fork this repository and follow the
 # 🌱 Current Status
 
 🚧 **Day 3 completed — continuing the journey!**
+
 
