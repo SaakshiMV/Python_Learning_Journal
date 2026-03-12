@@ -152,3 +152,4 @@ Even though the program itself was simple, this step is crucial because it estab
 The next steps will build on this foundation by introducing **variables, data types, and user input**.
 
 ⭐ If you're also learning Python, feel free to **follow along with this journey**.
+
