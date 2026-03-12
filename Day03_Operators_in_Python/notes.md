@@ -136,7 +136,7 @@ Multiplication is performed **before addition**, which is why the result is `20`
 
 ---
 
-# Why Operators Matter
+#🚀 Why Operators Matter
 
 Operators allow programs to:
 
@@ -149,7 +149,7 @@ Almost every program relies heavily on operators to **process data and make deci
 
 ---
 
-# What I Learned Today
+#📌 What I Learned Today
 
 Today I learned about:
 
@@ -161,7 +161,7 @@ Today I learned about:
 
 ---
 
-# Reflection
+#💭 Reflection
 
 Operators transform simple variables into **powerful tools for computation and decision-making**.
 
