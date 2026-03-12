@@ -1,92 +1,169 @@
 # 🚀 45 Days of Python Mastery
 
-Welcome to my **45-Day Python Learning Journey**.
+> A public learning journey documenting my progress from **Python beginner → confident developer** in 45 days.
 
-This repository documents my progress as I learn Python from **absolute beginner to advanced concepts**, while building a strong foundation in programming and problem solving.
+This repository contains my **daily notes, exercises, and mini projects** as I learn Python step by step.
 
 The goal is to:
 
-- ✔ Learn Python deeply
-- ✔ Practice coding every day
-- ✔ Document concepts clearly
-- ✔ Build a public learning portfolio
+✔ Build strong programming fundamentals
+✔ Practice coding consistently
+✔ Document learning in public
+✔ Create a solid GitHub portfolio
 
 ---
 
-# 📚 What This Repository Contains
+# 📊 Learning Progress
+
+| Day    | Topic                  | Status |
+| ------ | ---------------------- | ------ |
+| Day 1  | Python Setup           | ✅      |
+| Day 2  | Variables & Data Types | ✅      |
+| Day 3  | Operators              | ✅      |
+| Day 4  | Input & Output         | ⬜      |
+| Day 5  | Conditional Statements | ⬜      |
+| Day 6  | Nested Conditions      | ⬜      |
+| Day 7  | Loops                  | ⬜      |
+| Day 8  | Loop Control           | ⬜      |
+| Day 9  | Lists                  | ⬜      |
+| Day 10 | Mini Project           | ⬜      |
+
+---
+
+# 📅 Learning Roadmap
+
+## Week 1 — Python Foundations
+
+* Python Setup
+* Variables & Data Types
+* Operators
+* Input / Output
+* Conditional Statements
+* Nested Conditions
+* Loops
+* Lists
+
+---
+
+## Week 2 — Core Python Concepts
+
+* Tuples
+* Sets
+* Dictionaries
+* String Manipulation
+* List Comprehensions
+* Functions
+* Lambda Functions
+* Modules
+
+---
+
+## Week 3 — Intermediate Python
+
+* File Handling
+* Exception Handling
+* Object-Oriented Programming
+* Classes and Objects
+* Inheritance
+* Encapsulation
+* Polymorphism
+
+---
+
+## Week 4 — Practical Programming
+
+* Working with APIs
+* JSON Data
+* Virtual Environments
+* Logging
+* CLI Applications
+* Testing
+* Code Optimization
+
+---
+
+## Week 5 — Portfolio & Projects
+
+* Automation Scripts
+* Web Scraping
+* Data Processing
+* Final Python Project
+* Repository Cleanup
+
+---
+
+# 📂 Repository Structure
+
+```
+python-45-day-mastery
+
+README.md
+
+Day-01-Python-Setup
+Day-02-Variables
+Day-03-Operators
+Day-04-Input-Output
+Day-05-Conditionals
+Day-06-Loops
+Day-07-Lists
+...
+
+Projects
+   number-guessing-game
+   cli-calculator
+   contact-manager
+   task-manager
+   final-project
+```
+
+---
+
+# ⭐ Mini Projects
+
+During this journey I will build several projects:
+
+| Project              | Description                           |
+| -------------------- | ------------------------------------- |
+| Number Guessing Game | A CLI game using loops and conditions |
+| CLI Calculator       | A command-line calculator             |
+| Contact Manager      | Store and manage contacts             |
+| Task Manager         | Simple productivity CLI tool          |
+| Final Project        | A complete Python application         |
+
+---
+
+# 🧠 Learning Philosophy
+
+This repository follows a **learn → practice → build → document** workflow.
 
 Each day includes:
 
-* 📖 Concept notes
-* 💻 Practice code
-* 🧠 Exercises
-* ✨ Reflections
+* Concept explanations
+* Code examples
+* Exercises
+* Reflections
 
-Example structure:
-
-```
-Day-01-Python-Setup
-│
-├── notes.md
-├── hello_world.py
-└── exercises.py
-```
+Learning in public helps reinforce concepts and build accountability.
 
 ---
 
-# 🗓 Learning Roadmap
+# 📈 Why This Repository Exists
 
-| Day    | Topic                        |
-| ------ | ---------------------------- |
-| Day 1  | Python Setup & First Program |
-| Day 2  | Variables and Data Types     |
-| Day 3  | Operators                    |
-| Day 4  | Conditional Statements       |
-| Day 5  | Loops                        |
-| Day 6  | Functions                    |
-| Day 7  | Lists                        |
-| Day 8  | Dictionaries                 |
-| Day 9  | Strings                      |
-| Day 10 | Mini Project                 |
+I built this repository to:
 
-More topics will be added as the journey continues.
+* strengthen my Python fundamentals
+* track daily progress
+* build a visible coding portfolio
+* help other beginners learn Python
 
 ---
 
-# 💡 Why I Built This
+# 🤝 Contributions
 
-Learning in public helps me:
-
-* stay consistent
-* understand concepts deeply
-* build a visible portfolio
-* help others learning Python
+If you're also learning Python, feel free to fork this repository and follow the journey.
 
 ---
 
-# 🛠 Technologies Used
+# 🌱 Current Status
 
-* Python
-* Git
-* GitHub
-* Markdown
-
----
-
-# 📈 Progress Tracker
-
-* [x] Day 1 — ~~Python Setup~~
-* [x] Day 2 — ~~Variables and Data Types~~
-* [ ] Day 3 — Operators
-* [ ] Day 4 — Control Flow
-* [ ] Day 5 — Loops
-
----
-
-# 🤝 Connect With Me
-
-If you're also learning Python, feel free to follow along or contribute ideas.
-
-Let's build and learn together 🚀
-
-
+🚧 **Day 3 completed — continuing the journey!**
