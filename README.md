@@ -76,7 +76,7 @@ Learning in public helps me:
 # 📈 Progress Tracker
 
 * [x] Day 1 — ~~Python Setup~~
-* [ ] Day 2 — Variables
+* [x] Day 2 — ~~Variables and Data Types~~
 * [ ] Day 3 — Operators
 * [ ] Day 4 — Control Flow
 * [ ] Day 5 — Loops
@@ -88,4 +88,5 @@ Learning in public helps me:
 If you're also learning Python, feel free to follow along or contribute ideas.
 
 Let's build and learn together 🚀
+
 
