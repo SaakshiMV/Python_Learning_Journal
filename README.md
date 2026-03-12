@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-Learning-blue)
+![Progress](https://img.shields.io/badge/Progress-45%20Days-green)
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+
 # 🚀 45 Days of Python Mastery
 
 > A public learning journey documenting my progress from **Python beginner → confident developer** in 45 days.
@@ -6,10 +10,10 @@ This repository contains my **daily notes, exercises, and mini projects** as I l
 
 The goal is to:
 
-✔ Build strong programming fundamentals
-✔ Practice coding consistently
-✔ Document learning in public
-✔ Create a solid GitHub portfolio
+- ✔ Build strong programming fundamentals
+- ✔ Practice coding consistently
+- ✔ Document learning in public
+- ✔ Create a solid GitHub portfolio
 
 ---
 
@@ -167,3 +171,4 @@ If you're also learning Python, feel free to fork this repository and follow the
 # 🌱 Current Status
 
 🚧 **Day 3 completed — continuing the journey!**
+
