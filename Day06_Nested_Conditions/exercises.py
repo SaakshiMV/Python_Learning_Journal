@@ -1,6 +1,7 @@
 # Exercise 1
 # Check student eligibility for exam
-print("Check student eligibility for exam: ")
+print("======================================================")
+print("\nCheck student eligibility for exam: ")
 attendance = 80
 fees_paid = True
 
@@ -15,7 +16,8 @@ else:
 #=======================================================
 # Exercise 2
 # ATM withdrawal simulation
-print("ATM withdrawal simulation: ")
+print("======================================================")
+print("\nATM withdrawal simulation: ")
 balance = 1000
 withdraw = 500
 
@@ -28,7 +30,8 @@ else:
 #=======================================================
 # Exercise 3
 # Login system
-print("Login system: ")
+print("======================================================")
+print("\nLogin system: ")
 username = input("Enter username: ")
 password = input("Enter password: ")
 
@@ -44,7 +47,8 @@ else:
 #=======================================================
 # Exercise 4
 # Age and citizenship check
-print("Age and citizenship check: ")
+print("======================================================")
+print("\nAge and citizenship check: ")
 age = int(input("Enter your age: "))
 citizen = True
 
