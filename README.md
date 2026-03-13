@@ -29,8 +29,8 @@ The goal is to:
 | Day 6  | Nested Conditions      | ✅      |
 | Day 7  | Loops                  | ✅      |
 | Day 8  | Loop Control           | ✅      |
-| Day 9  | Lists                  | ⬜      |
-| Day 10 | Mini Project           | ⬜      |
+| Day 9  | Lists                  | ✅      |
+| Day 10 | Mini Project           | ✅      |
 
 ---
 
@@ -171,6 +171,7 @@ If you're also learning Python, feel free to fork this repository and follow the
 # 🌱 Current Status
 
 🚧 **Day 3 completed — continuing the journey!**
+
 
 
 
