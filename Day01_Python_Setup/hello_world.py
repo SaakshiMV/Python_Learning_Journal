@@ -1,2 +1,1 @@
-message = "System Initialization Complete"
-print(message)
+print("Hello world")   #print() is a in built function used to display the output onto the console
