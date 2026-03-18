@@ -18,25 +18,25 @@ Click on any pattern to view its implementation 👇
 | **09** | Hollow Pyramid | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern09.py) |
 | **10** | Inverted Hollow Pyramid | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern10.py) |
 | **11** | Hollow Diamond | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern11.py) |
-| **12** | Number Triangle (Sequential) | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern12.py) |
-| **13** | Inverted Number Triangle | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern13.py) |
-| **14** | Number Pyramid (Palindrome) | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern14.py) |
-| **15** | Inverted Number Pyramid | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern15.py) |
-| **16** | Number Diamond | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern16.py) |
-| **17** | Alphabet Triangle | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern17.py) |
-| **18** | Inverted Alphabet Triangle | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern18.py) |
-| **19** | Alphabet Pyramid | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern19.py) |
-| **20** | Inverted Alphabet Pyramid | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern20.py) |
-| **21** | Alphabet Diamond | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern21.py) |
-| **22** | Floyd's Triangle | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern22.py) |
-| **23** | Pascal's Triangle | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern23.py) |
-| **24** | Butterfly Pattern (Solid) | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern24.py) |
-| **25** | Butterfly Pattern (Hollow) | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern25.py) |
-| **26** | Number Matrix | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern26.py) |
-| **27** | Hollow Number Square | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern27.py) |
-| **28** | Binary Checkerboard (0/1) | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern28.py) |
-| **29** | X (Cross) Pattern | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern29.py) |
-| **30** | Plus (+) Pattern | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern30.py) |
+| **12** | Number Triangle (Sequential) | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern12.py) 🚧 Coming Soon|
+| **13** | Inverted Number Triangle | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern13.py) 🚧 Coming Soon|
+| **14** | Number Pyramid (Palindrome) | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern14.py) 🚧 Coming Soon|
+| **15** | Inverted Number Pyramid | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern15.py) 🚧 Coming Soon|
+| **16** | Number Diamond | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern16.py) 🚧 Coming Soon|
+| **17** | Alphabet Triangle | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern17.py) 🚧 Coming Soon|
+| **18** | Inverted Alphabet Triangle | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern18.py) 🚧 Coming Soon|
+| **19** | Alphabet Pyramid | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern19.py) 🚧 Coming Soon|
+| **20** | Inverted Alphabet Pyramid | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern20.py) 🚧 Coming Soon|
+| **21** | Alphabet Diamond | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern21.py) 🚧 Coming Soon|
+| **22** | Floyd's Triangle | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern22.py) 🚧 Coming Soon|
+| **23** | Pascal's Triangle | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern23.py) 🚧 Coming Soon|
+| **24** | Butterfly Pattern (Solid) | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern24.py) 🚧 Coming Soon|
+| **25** | Butterfly Pattern (Hollow) | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern25.py) 🚧 Coming Soon|
+| **26** | Number Matrix | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern26.py) 🚧 Coming Soon|
+| **27** | Hollow Number Square | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern27.py) 🚧 Coming Soon|
+| **28** | Binary Checkerboard (0/1) | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern28.py) 🚧 Coming Soon|
+| **29** | X (Cross) Pattern | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern29.py) 🚧 Coming Soon|
+| **30** | Plus (+) Pattern | [View Code](https://github.com/SaakshiMV/Python_Learning_Journal/blob/main/Projects/Pattern_Printing/pattern30.py) 🚧 Coming Soon|
 
 
 
