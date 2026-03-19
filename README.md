@@ -31,6 +31,9 @@ The goal is to:
 | Day 8  | Loop Control           | ✅      |
 | Day 9  | Lists                  | ✅      |
 | Day 10 | Mini Project           | ✅      |
+| Day 11 | Tuples                 | ✅      |
+| Day 12 | Sets                   | ✅      |
+| Day 13 | Dictionaries           | ✅      |
 
 ---
 
@@ -170,7 +173,7 @@ If you're also learning Python, feel free to fork this repository and follow the
 
 # 🌱 Current Status
 
-🚧 **Day 3 completed — continuing the journey!**
+🚧 **Day 13 completed — continuing the journey!**
 
 
 
