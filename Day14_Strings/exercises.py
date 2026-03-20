@@ -18,3 +18,14 @@ print(sentence.replace("Python", "coding"))
 # Check if string contains only digits
 num = "12345"
 print(num.isdigit())
+
+# Exercise 5
+# Text Analyzer
+text = input("Enter a sentence: ")
+
+print("\nAnalysis:")
+print("Length:", len(text))
+print("Uppercase:", text.upper())
+print("Lowercase:", text.lower())
+print("Number of characters:", len(text))
+print("Contains digits:", any(char.isdigit() for char in text))
