@@ -42,32 +42,32 @@ The goal is to:
 | Day 17 | Modules                            | ✅      |
 | Day 18 | File Handling                      | ✅      |
 | Day 19 | Exception Handling                 | ✅      |
-| Day 20 | OOP Basics (Classes & Objects)     | ⬜      |
-| Day 21 | Constructors & Instance Variables  | ⬜      |
-| Day 22 | Methods & Encapsulation            | ⬜      |
-| Day 23 | Inheritance                        | ⬜      |
-| Day 24 | Polymorphism                       | ⬜      |
-| Day 25 | OOP Mini Project                   | ⬜      |
-| Day 26 | Working with Files (Advanced)      | ⬜      |
-| Day 27 | JSON Handling                      | ⬜      |
-| Day 28 | Python Standard Libraries          | ⬜      |
-| Day 29 | Virtual Environments & Pip         | ⬜      |
-| Day 30 | CLI Project (Command Line Tool)    | ⬜      |
-| Day 31 | Intro to APIs                      | ⬜      |
-| Day 32 | Making API Requests                | ⬜      |
-| Day 33 | Working with JSON APIs             | ⬜      |
-| Day 34 | API Mini Project                   | ⬜      |
-| Day 35 | Intro to Databases (SQLite)        | ⬜      |
-| Day 36 | CRUD Operations                    | ⬜      |
-| Day 37 | Database Integration Project       | ⬜      |
-| Day 38 | Intro to Web Development (Flask)   | ⬜      |
-| Day 39 | Flask Routing & Templates          | ⬜      |
-| Day 40 | Forms & User Input (Flask)         | ⬜      |
-| Day 41 | Flask Mini Project                 | ⬜      |
-| Day 42 | Intro to Automation / Scripting    | ⬜      |
-| Day 43 | Automation Project                 | ⬜      |
-| Day 44 | Final Project (Full Integration)   | ⬜      |
-| Day 45 | Final Polish + GitHub Optimization | ⬜      |
+| Day 20 | OOP Basics (Classes & Objects)     | 🚧 In Progress      |
+| Day 21 | Constructors & Instance Variables  | 🚧 In Progress      |
+| Day 22 | Methods & Encapsulation            | 🚧 In Progress      |
+| Day 23 | Inheritance                        | 🚧 In Progress      |
+| Day 24 | Polymorphism                       | 🚧 In Progress      |
+| Day 25 | OOP Mini Project                   | 🚧 In Progress      |
+| Day 26 | Working with Files (Advanced)      | 🚧 In Progress      |
+| Day 27 | JSON Handling                      | 🚧 In Progress      |
+| Day 28 | Python Standard Libraries          | 🚧 In Progress      |
+| Day 29 | Virtual Environments & Pip         | 🚧 In Progress      |
+| Day 30 | CLI Project (Command Line Tool)    | 🚧 In Progress      |
+| Day 31 | Intro to APIs                      | 🚧 In Progress      |
+| Day 32 | Making API Requests                | 🚧 In Progress      |
+| Day 33 | Working with JSON APIs             | 🚧 In Progress      |
+| Day 34 | API Mini Project                   | 🚧 In Progress      |
+| Day 35 | Intro to Databases (SQLite)        | 🚧 In Progress      |
+| Day 36 | CRUD Operations                    | 🚧 In Progress      |
+| Day 37 | Database Integration Project       | 🚧 In Progress      |
+| Day 38 | Intro to Web Development (Flask)   | 🚧 In Progress      |
+| Day 39 | Flask Routing & Templates          | 🚧 In Progress      |
+| Day 40 | Forms & User Input (Flask)         | 🚧 In Progress      |
+| Day 41 | Flask Mini Project                 | 🚧 In Progress      |
+| Day 42 | Intro to Automation / Scripting    | 🚧 In Progress      |
+| Day 43 | Automation Project                 | 🚧 In Progress      |
+| Day 44 | Final Project (Full Integration)   | 🚧 In Progress      |
+| Day 45 | Final Polish + GitHub Optimization | 🚧 In Progress      |
 
 
 ---
