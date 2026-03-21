@@ -19,21 +19,56 @@ The goal is to:
 
 # 📊 Learning Progress
 
-| Day    | Topic                  | Status |
-| ------ | ---------------------- | ------ |
-| Day 1  | Python Setup           | ✅      |
-| Day 2  | Variables & Data Types | ✅      |
-| Day 3  | Operators              | ✅      |
-| Day 4  | Input & Output         | ✅      |
-| Day 5  | Conditional Statements | ✅      |
-| Day 6  | Nested Conditions      | ✅      |
-| Day 7  | Loops                  | ✅      |
-| Day 8  | Loop Control           | ✅      |
-| Day 9  | Lists                  | ✅      |
-| Day 10 | Mini Project           | ✅      |
-| Day 11 | Tuples                 | ✅      |
-| Day 12 | Sets                   | ✅      |
-| Day 13 | Dictionaries           | ✅      |
+## 📊 Learning Progress
+
+| Day    | Topic                              | Status |
+| ------ | ---------------------------------- | ------ |
+| Day 1  | Python Setup                       | ✅      |
+| Day 2  | Variables & Data Types             | ✅      |
+| Day 3  | Operators                          | ✅      |
+| Day 4  | Input & Output                     | ✅      |
+| Day 5  | Conditional Statements             | ✅      |
+| Day 6  | Nested Conditions                  | ✅      |
+| Day 7  | Loops                              | ✅      |
+| Day 8  | Loop Control                       | ✅      |
+| Day 9  | Lists                              | ✅      |
+| Day 10 | Mini Project (Guessing Game)       | ✅      |
+| Day 11 | Tuples                             | ✅      |
+| Day 12 | Sets                               | ✅      |
+| Day 13 | Dictionaries                       | ✅      |
+| Day 14 | Strings                            | ✅      |
+| Day 15 | List Comprehensions                | ✅      |
+| Day 16 | Functions                          | ✅      |
+| Day 17 | Modules                            | ✅      |
+| Day 18 | File Handling                      | ✅      |
+| Day 19 | Exception Handling                 | ✅      |
+| Day 20 | OOP Basics (Classes & Objects)     | ⬜      |
+| Day 21 | Constructors & Instance Variables  | ⬜      |
+| Day 22 | Methods & Encapsulation            | ⬜      |
+| Day 23 | Inheritance                        | ⬜      |
+| Day 24 | Polymorphism                       | ⬜      |
+| Day 25 | OOP Mini Project                   | ⬜      |
+| Day 26 | Working with Files (Advanced)      | ⬜      |
+| Day 27 | JSON Handling                      | ⬜      |
+| Day 28 | Python Standard Libraries          | ⬜      |
+| Day 29 | Virtual Environments & Pip         | ⬜      |
+| Day 30 | CLI Project (Command Line Tool)    | ⬜      |
+| Day 31 | Intro to APIs                      | ⬜      |
+| Day 32 | Making API Requests                | ⬜      |
+| Day 33 | Working with JSON APIs             | ⬜      |
+| Day 34 | API Mini Project                   | ⬜      |
+| Day 35 | Intro to Databases (SQLite)        | ⬜      |
+| Day 36 | CRUD Operations                    | ⬜      |
+| Day 37 | Database Integration Project       | ⬜      |
+| Day 38 | Intro to Web Development (Flask)   | ⬜      |
+| Day 39 | Flask Routing & Templates          | ⬜      |
+| Day 40 | Forms & User Input (Flask)         | ⬜      |
+| Day 41 | Flask Mini Project                 | ⬜      |
+| Day 42 | Intro to Automation / Scripting    | ⬜      |
+| Day 43 | Automation Project                 | ⬜      |
+| Day 44 | Final Project (Full Integration)   | ⬜      |
+| Day 45 | Final Polish + GitHub Optimization | ⬜      |
+
 
 ---
 
