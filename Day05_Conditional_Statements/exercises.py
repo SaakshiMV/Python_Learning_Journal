@@ -1,6 +1,6 @@
 # Exercise 1
 # Check if a number is positive or negative
-print("\nCheck if a number is positive or negative": )
+print("\nCheck if a number is positive or negative: ")
 number = -5
 if number > 0:
     print("Positive")
