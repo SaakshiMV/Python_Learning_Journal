@@ -29,30 +29,30 @@ Without exception handling, such errors would **stop the program abruptly**.
 ## 🛠️ Common Built-in Exceptions
 These are the most frequently encountered errors during standard data processing:
 
-- **ZeroDivisionError**  
+- **`ZeroDivisionError`**  
   Raised when attempting to divide a number by zero.
 
-- **ValueError**  
+- **`ValueError`**  
   Occurs when a function receives the correct type but an inappropriate value.  
   Example: `int("abc")`
 
-- **TypeError**  
+- **`TypeError`**  
   Raised when an operation is applied to an object of inappropriate type.  
   Example: `len(5)`
 
-- **IndexError**  
+- **`IndexError`**  
   Occurs when trying to access an index that is out of range in a list.
 
-- **KeyError**  
+- **`KeyError`**  
   Raised when accessing a dictionary key that does not exist.
 
-- **NameError**  
+- **`NameError`**  
   Occurs when a variable or function is used before being defined.
 
-- **FileNotFoundError**  
+- **`FileNotFoundError`**  
   Raised when trying to open a file that does not exist.
 
-- **ImportError**  
+- **`ImportError`**  
   Occurs when an import statement fails to locate a module.
 
 ---
@@ -60,17 +60,17 @@ These are the most frequently encountered errors during standard data processing
 ## 🏗️ Structural & System Exceptions
 These errors are related to code structure or system-level interruptions:
 
-- **SyntaxError**  
+- **`SyntaxError`**  
   Raised when Python code is written incorrectly.  
   Example: missing colon `:`
 
-- **IndentationError**  
+- **`IndentationError`**  
   Occurs due to improper indentation in code blocks.
 
-- **KeyboardInterrupt**  
+- **`KeyboardInterrupt`**  
   Triggered when the user manually stops the program (e.g., `Ctrl + C`).
 
-- **StopIteration**  
+- **`StopIteration`**  
   Raised by iterators when there are no more items to return.
 
 ---
@@ -78,11 +78,11 @@ These errors are related to code structure or system-level interruptions:
 ## 📂 The Exception Hierarchy
 Python organizes exceptions in a hierarchical structure:
 
-- **BaseException**  
+- **`BaseException`**  
   The root of all exceptions.  
   ⚠️ Avoid catching this directly.
 
-- **Exception**  
+- **`Exception`**  
   The base class for most runtime errors.  
   ✅ Recommended for general exception handling.
 
