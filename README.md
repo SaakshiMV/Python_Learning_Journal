@@ -42,8 +42,8 @@ The goal is to:
 | Day 17 | Modules                            | ✅      |
 | Day 18 | File Handling                      | ✅      |
 | Day 19 | Exception Handling                 | ✅      |
-| Day 20 | OOP Basics (Classes & Objects)     | 🚧 In Progress      |
-| Day 21 | Constructors & Instance Variables  | 🚧 In Progress      |
+| Day 20 | OOP Basics (Classes & Objects)     | ✅      |
+| Day 21 | Constructors & Instance Variables  | ✅      |
 | Day 22 | Methods & Encapsulation            | 🚧 In Progress      |
 | Day 23 | Inheritance                        | 🚧 In Progress      |
 | Day 24 | Polymorphism                       | 🚧 In Progress      |
