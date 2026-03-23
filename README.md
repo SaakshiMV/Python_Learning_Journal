@@ -208,7 +208,7 @@ If you're also learning Python, feel free to fork this repository and follow the
 
 # 🌱 Current Status
 
-🚧 **Day 13 completed — continuing the journey!**
+🚧 **Day 21 completed — continuing the journey!**
 
 
 
