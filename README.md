@@ -44,11 +44,11 @@ The goal is to:
 | Day 19 | Exception Handling                 | ✅      |
 | Day 20 | OOP Basics (Classes & Objects)     | ✅      |
 | Day 21 | Constructors & Instance Variables  | ✅      |
-| Day 22 | Methods & Encapsulation            | 🚧 In Progress      |
-| Day 23 | Inheritance                        | 🚧 In Progress      |
-| Day 24 | Polymorphism                       | 🚧 In Progress      |
-| Day 25 | OOP Mini Project                   | 🚧 In Progress      |
-| Day 26 | Working with Files (Advanced)      | 🚧 In Progress      |
+| Day 22 | Methods & Encapsulation            | ✅      |
+| Day 23 | Inheritance                        | ✅      |
+| Day 24 | Polymorphism                       | ✅      |
+| Day 25 | OOP Mini Project                   | ✅      |
+| Day 26 | Working with Files (Advanced)      | ✅      |
 | Day 27 | JSON Handling                      | 🚧 In Progress      |
 | Day 28 | Python Standard Libraries          | 🚧 In Progress      |
 | Day 29 | Virtual Environments & Pip         | 🚧 In Progress      |
