@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #eef2f3;
+}
+
+a {
+    margin: 10px;
+}
+
+ul {
+    list-style: none;
+}
