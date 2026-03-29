@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #f7f7f7;
+}
+
+a {
+    display: inline-block;
+    margin: 20px;
+}
+
+input, button {
+    padding: 10px;
+}
