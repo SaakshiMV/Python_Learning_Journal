@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Expense Tracker Pro</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+    <h1>Expense Tracker Pro 💰</h1>
+
+    <a href="/add">Add Expense</a>
+
+    <h2>Total: ₹{{ total }}</h2>
+
+    <ul>
+        {% for exp in expenses %}
+            <li>
+                {{ exp[1] }} - ₹{{ exp[2] }} ({{ exp[3] }})
+                <a href="/delete/{{ exp[0] }}">❌</a>
+            </li>
+        {% endfor %}
+    </ul>
+
+</body>
+</html>
